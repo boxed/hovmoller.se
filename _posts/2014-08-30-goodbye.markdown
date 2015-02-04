@@ -8,3 +8,11 @@ image: /assets/images/goodbye.JPG
 ---
 Goodbye!
 
+Här är **Nova**!
+![Sötisbebis!](/assets/images/01300283.JPG "Nova")
+
+Gosbebis!
+![Gosbebis!](/assets/images/klarnärbild.JPG "Nova")
+
+
+
