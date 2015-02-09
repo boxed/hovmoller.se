@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Planering pågår..."
-date:   2015-08-29 14:34:25
+date:   2015-02-09 14:34:25
 categories: jekyll update
 tags: featured
 image: /assets/images/01290258.JPG
