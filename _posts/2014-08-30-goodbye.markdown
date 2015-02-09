@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Goodbye!"
-date:   2014-08-29 14:34:25
+title:  "Lite bilder på vår bebis"
+date:   2015-02-09 14:34:25
 categories: jekyll update
 tags: featured
 image: /assets/images/goodbye.JPG
 ---
-#Goodbye!
+#Lite bilder på vår bebis!
 
 Här är **Nova**!
 ![Sötisbebis!](/assets/images/01300283.JPG "Nova")
