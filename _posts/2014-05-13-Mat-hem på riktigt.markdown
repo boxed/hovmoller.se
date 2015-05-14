@@ -17,7 +17,7 @@ Mums
 Novas mat
 ![Prasselpåse](/assets/images/novapåse.jpg "Prassel-påse")
 
-Idag har jag & Nova utforskat närområdet, promerat runt Madison Square Park och varit en en enorm baby-affär, buybuybaby. 
+Idag har jag & Nova utforskat närområdet, promerat runt Madison Square Park och varit i en enorm baby-affär, buybuybaby. 
 
 Anders & Nova
 ![Anders & Nova](/assets/images/andersnovasoffa.jpg "Lek")
