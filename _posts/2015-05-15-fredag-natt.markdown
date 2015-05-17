@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fredag natt"
-date:   2015-05-13 09:29
+date:   2015-05-15 21:29
 categories: jekyll update anders
 tags: featured
 image: /assets/images/natt.jpg
