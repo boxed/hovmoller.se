@@ -12,7 +12,7 @@ Nu har vi varit i New York en vecka, och jag tycker att det känns förvånansv�
 
 På eftermiddagarna brukar det bli en ny upptäcksfärd utomhus. Idag ska vi på en Baby Playdate på ett ställe som heter KidsAtWork här i närheten. Nova tycker det är så roligt att titta på andra barn! Anders brukar komma hem typ halv 6 och då beställer vi spännande mat. Igår ville Nova smaka en fortune-cookie!
 
-![Fniss](/assets/images/fortunecookie.jpg "")
+![Smask!](/assets/images/fortunecookie.jpg "")
 
 Nova blir också mer och mer kramig, vilket är underbart!
 
