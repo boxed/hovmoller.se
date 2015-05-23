@@ -17,7 +17,7 @@ Det var en väldigt vacker dag att ha picknick, så vi köpte mat på Luke's lob
 ![Luke's lobster](/assets/images/lukes.jpg "")
 ![Novas första hummer](/assets/images/lobster.jpg "")
 
-Nova tyckte det var spännande att krypa runt i gräset, men tyckte inte lika myxket om att ha sin solhatt på sig...
+Nova tyckte det var spännande att krypa runt i gräset, men tyckte inte lika mycket om att ha sin solhatt på sig...
 
 ![Av med hatten!](/assets/images/avmedhatt.jpg "")
 ![Bebis i gräset](/assets/images/novaigräs.jpg "")
