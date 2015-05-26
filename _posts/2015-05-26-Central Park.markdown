@@ -11,7 +11,7 @@ Idag tog jag och Nova en lång förmiddagspromenad till Central Park. Det tog un
 ![](/assets/images/cp1.jpg "")
 ![](/assets/images/cp2.jpg "")
 ![](/assets/images/cp3.jpg "")
-
+![](/assets/images/cp4.jpg "")
 
 På eftermiddagen var vi på en ny musik-klass, Music Together. 
 
