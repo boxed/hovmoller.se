@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/peka.jpg
 ---
-Idag tog jag och Nova en lång förmiddagspromenad till Central Park. Det tog ungefär 45 minuter att gå dit från vår lägenhet, men det är för att måste stanna och vänta på att gå över gatan 30 gånger, och för att jag blir stannad för att turister vill fråga mig om vägen. Det händer hela tiden! Och jag har kunnat svara alla gånger utom en. Jag ser väl ut som en riktig New York-bo med barnvagnen i ena handen och starbucks-kaffet i andra...Väl framme i Central Park fick Nova leka i gräset, vilket var jättespännande!
+Idag tog jag och Nova en lång förmiddagspromenad till Central Park. Det tog ungefär 45 minuter att gå dit från vår lägenhet, men det är för att man måste stanna och vänta på att gå över gatan 30 gånger, och för att jag blir stannad för att turister vill fråga mig om vägen. Det händer hela tiden! Och jag har kunnat svara alla gånger utom en. Jag ser väl ut som en riktig New York-bo med barnvagnen i ena handen och starbucks-kaffet i andra...Väl framme i Central Park fick Nova leka i gräset, vilket var jättespännande!
 
 ![](/assets/images/cp1.jpg "")
 ![](/assets/images/cp2.jpg "")
