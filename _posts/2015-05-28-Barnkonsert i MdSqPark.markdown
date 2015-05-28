@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/konsert.jpg
 ---
-Efter en stunds lekande i lekrummet på morgonen gick jag & Nova på förmiddagstur i stadsdelen Chelsea. Nova somnade gosigt i vagnen och jag hittade det svensk-temade kaféet FIKA, där jag köpte en capuccino och en getostpralin (vilket är väldigt svenskt...) Det var i alla fall mycket smaskigt! Sen gick jag och Nova till Madison Square Park där det var premiär för årets serie av torsdagsbarnkonserter! De som uppträdde hade blivit nominerade för en Grammy förra året. Jag tror Nova uppskadde både musiken och att titta på alla andra barn.
+Efter en stunds lekande i lekrummet på morgonen gick jag & Nova på förmiddagstur i stadsdelen Chelsea. Nova somnade gosigt i vagnen och jag hittade det svensk-temade kaféet FIKA, där jag köpte en capuccino och en getostpralin (vilket är väldigt svenskt...) Det var i alla fall mycket smaskigt! Sen gick jag och Nova till Madison Square Park där det var premiär för årets serie av torsdagsbarnkonserter! De som uppträdde hade blivit nominerade för en Grammy förra året. Jag tror Nova uppskattade både musiken och att titta på alla andra barn.
 
 ![](/assets/images/tittakonsert.jpg "")
 
