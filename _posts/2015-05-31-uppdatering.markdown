@@ -8,7 +8,7 @@ image: /assets/images/regnig-gata.jpg
 ---
 Frida utmanade vädergudarna i förra inlägget, så på vägen tillbaka från lite shoppande:
 
-![Vi tar skydd under byggarbetesplats](/assets/images/tar-skydd-från-regn.jpg)
+![Vi tar skydd under byggarbetesplats](/assets/images/tar-skydd-fran-regn.jpg)
 
 Efter denna bild blev det värre. Och sen värre. Sen sprang vi och blev helt genomsura. När vi kommit in fick vi automatiskt varnings-meddelande från New York:
 
