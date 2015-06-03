@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "Regn regn regn"
-date:   2015-06-02 15:30
+title:  "Gung och gung och sång"
+date:   2015-06-03 15:30
 categories: jekyll update anders
 tags: featured
-image: /assets/images/regnregn.jpg
+image: /assets/images/greenmarket.jpg
 ---
-Nu har det varit två dagar med mest regn regn regn. Vi har tagit några korta promenader, men annars mest varit inne och lekt, i lägenheten eller i lekrummet. Men här är några söta bilder på Nova:
+Idag är det äntligen bättre väder! På förmiddagen tänkte jag att jag Nova skulle gå till gungorna i Madison Square Park, men där var det fullt, så vi gick ned till Union Square och gungade istället. Vid Union Square gick vi först runt och tittade på marknaden och sen fick Nova gunga! På eftermiddagen skulle vi på Music with Suzanna, men vi hann gunga på en lekplats i närheten innan det började. Vi har en liten gngälskande bebis! På musikklassen fanns det många kompisar att leka med. 
 
-![](/assets/images/hållahand.jpg)
+![](/assets/images/gungunion.jpg)
 
-![](/assets/images/kryp.jpg)
+![](/assets/images/kompisar.jpg)
 
-![](/assets/images/soveröppenmun.jpg)
 
-![](/assets/images/jacka.jpg)
-
-![](/assets/images/storaögon.jpg)
 
 
