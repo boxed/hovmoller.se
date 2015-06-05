@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/vietnam.jpg
 ---
-Vår nya favoritmaträtt är vietnamesiska mackor! Vi har beställt från samma ställe två dagar i rad och det är såå gott! Tänk dig en riktigt mör köttbit, tillsammans med krispig sallad och kryddiga picklade grönsaker i en smaskigt dressingsindränkt bröd...Det kommer vi sakna när vi kommer hem till Sverige. Vårt matäventyr har gått väldigt bra hitills. De kök vi har prickat av hitills är:
+Vår nya favoritmaträtt är vietnamesiska mackor! Vi har beställt från samma ställe två dagar i rad och det är såå gott! Tänk dig en riktigt mör köttbit, tillsammans med krispig sallad och kryddiga picklade grönsaker och färska kryddor i en smaskigt dressingsindränkt bröd...Det kommer vi sakna när vi kommer hem till Sverige. Vårt matäventyr har gått väldigt bra hitills. De kök vi har prickat av hitills är:
 
 Vietnam
 Colombia
