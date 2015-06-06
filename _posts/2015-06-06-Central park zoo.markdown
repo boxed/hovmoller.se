@@ -1,39 +1,39 @@
 ---
 layout: post
-title:  "Matuppdatering"
-date:   2015-06-05 19:30
+title:  "Central Park Zoo"
+date:   2015-06-06 19:30
 categories: jekyll update anders
 tags: featured
-image: /assets/images/vietnam.jpg
+image: /assets/images/stadsvy.jpg
 ---
-Vår nya favoritmaträtt är vietnamesiska mackor! Vi har beställt från samma ställe två dagar i rad och det är såå gott! Tänk dig en riktigt mör köttbit, tillsammans med krispig sallad och kryddiga picklade grönsaker och färska kryddor i en smaskigt dressingsindränkt bröd...Det kommer vi sakna när vi kommer hem till Sverige. Vårt matäventyr har gått väldigt bra hitills. De kök vi har prickat av hitills är:
+Idag regnade det på förmiddagen så det var ett ypperligt tillfälle för Frida att handla tyg! Efter lunch var vädret mycket bättre, så vi åkte till Central Park Zoo. Frågan är om Nova eller Anders var mest intresserad...
 
-Vietnam
-Colombia
-Italien
-Taiwan
-Korea
-Indien
-Syd-Indien
-Japan/Sushi
-Kina
-Mexico
-Libanon
-Thailand
+![](/assets/images/killing.jpg)
 
-Och så förstås lite varianter av amerikansk mat (Maine lobster, hamburgare, pulled pork, fried chicken, pizza) 
+![](/assets/images/zoo.jpg)
 
-![Här är ett urval av våra middagar](/assets/images/grubhub.jpg)
+Sen åt vi glass på en gräsmatta och Nova fick krypa runt på upptäcktsfärd. Gräs och glasspinnar- smask!
 
-Idag gick vi på en musikklass, Music for Aardvarks. Nova hade på sig en tröja som jag sytt, och två andra mammor där sa att det var en cool tröja. De blev mäkta imponerade när jag sa att jag sytt den. De tyckte jag skulle börja sälja dem :-)
+![](/assets/images/ätagräs.jpg)
 
-![Vi gick förbi FN-byggnaden på väg till musikklassen](/assets/images/UN.jpg)
+![](/assets/images/gladhatt.jpg)
 
-På kvällen fick Nova bada! Det är en av hennes favoritaktiviteter! Hon plaskar som en tok!
+![](/assets/images/hattkryp.jpg)
 
-![Glad badbebis](/assets/images/badbebis1.jpg)
+![](/assets/images/andersnovacp.jpg)
 
-![Plaskig badbebis](/assets/images/badbebis2.jpg)
+![](/assets/images/koncentrerad.jpg)
+
+![](/assets/images/familj1.jpg)
+
+![](/assets/images/familj2.jpg)
+
+![](/assets/images/familj3.jpg)
+
+![](/assets/images/familj4.jpg)
+
+
+
 
 
 
