@@ -36,7 +36,7 @@ Sen gick vi vidare genom Little Italy till Chinatown. Vi köpte bubble-tea (te m
 
 ![Chinatown Ice Cream Factory](/assets/images/chinatownicecream.jpg)
 
-![Anders fick en kompis utanför glass-stället](/assets/images/homer.jpg)
+![Anders fick en kompis utanför Vivi bubble tea](/assets/images/homer.jpg)
 
 
 
