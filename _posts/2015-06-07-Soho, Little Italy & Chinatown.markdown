@@ -26,7 +26,7 @@ Vi gick förbi en bokmarknad och lite andra affärer på väg en ny vietnamesisk
 
 ![](/assets/images/nära2.jpg)
 
-![](/assets/images/fridanovagos1.jpg)
+![](/assets/images/fridanovagos.jpg)
 
 ![](/assets/images/fridanovagos2.jpg)
 
