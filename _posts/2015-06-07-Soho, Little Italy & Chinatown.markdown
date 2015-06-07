@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/bubbletea.jpg
 ---
-Idag var det lek i lekrummet som gällde morgonen. Anders byggde ett torn och var mycket stolt!
+Idag var det lek i lekrummet som gällde på morgonen. Anders byggde ett torn och var mycket stolt!
 
 ![Stolt Anders!](/assets/images/andersharbyggtetttorn.jpg)
 
@@ -16,7 +16,7 @@ Sen påbörjade vi dagens utflykt. Vi tog en taxi till Soho och gick förbi ett 
 
 ![Kram](/assets/images/gospåcafe.jpg)
 
-Vi gick förbi en bokmarknad och lite andra affärer på väg en ny vietnamesisk sandwichsshop som jag letat upp i förväg (must have more vietnamese food...) Med våra banh-mi's i påse begav vi oss till Elisabeth Street Garden för att äta picknick-lunch. Elisabeth Street Garden är en liten park som var fylld av djurstatyer, wind-chimes och folk som gjorde yoga. Väldigt mysigt! Vi hamnade brevid en annan familj med en dotter i Novas ålder. De bodde i närheten och var förvånade att vi "turister" lyckats hitta både till ett så bra lokalt matsälle och till deras lilla park.  
+Vi gick förbi en bokmarknad och lite andra affärer på väg till en ny vietnamesisk sandwichshop som jag letat upp i förväg (must have more vietnamese food...) Med våra banh-mi's i påse begav vi oss till Elisabeth Street Garden för att äta picknick-lunch. Elisabeth Street Garden är en liten park som var fylld av djurstatyer, wind-chimes och folk som gjorde yoga. Väldigt mysigt! Vi hamnade brevid en annan familj med en dotter i Novas ålder. De bodde i närheten och var förvånade att vi "turister" lyckats hitta både till ett så bra lokalt matsälle och till deras lilla park.  
 
 ![Nova tittar på våra picknick-grannar](/assets/images/tittarpåkompis.jpg)
 
