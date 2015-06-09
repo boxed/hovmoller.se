@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/cmom1.jpg
 ---
-Idag stoppade jag ner Nova i bärselen och så tog vi en taxi till Children's museum of Manhattan på Upper West Side. Det fanns en hela våning som bara var för barn 0-4 år! Jag och Nova hittade massor av roliga saker att leka med!
+Idag stoppade jag ner Nova i bärselen och så tog vi en taxi till Children's museum of Manhattan på Upper West Side. Det fanns en hel våning som bara var för barn 0-4 år! Jag och Nova hittade massor av roliga saker att leka med!
 
 ![](/assets/images/cmom2.jpg)
 
