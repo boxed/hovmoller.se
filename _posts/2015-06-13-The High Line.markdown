@@ -24,7 +24,7 @@ Nästa utflykt gick till en baktillbehörsffär där jag hittade kavlar med mön
 
 Eftersom det låg en Apple-store brevid FAO Schwartz var vi tvugna att gå in. 
 
-![Nova & Anders kikar på de nya klockorna i Apple store:en.](/assets/images/applestore.jpg)
+![Nova & Anders kikar på de nya klockorna](/assets/images/applestore.jpg)
 
 Lite andra bilder...
 
