@@ -6,7 +6,7 @@ categories: jekyll update anders
 tags: featured
 image: /assets/images/intrepid2.jpg
 ---
-Igår hade Anders semester, så vi passade på att åka på utflykt till Intrepid: Air, sea & space museum. Museumet är på ett hangarfartyg, det finns en massa olika stidsflygplan att titta på. I en annan del fann en space shuttle. Den var det mest imponerande att se. Utan på shuttlen är kaklad, det var väldigt häftigt att se! Det fanns också en ubåt, men där fick man inte ta med Nova. Det gjorde dock inte så mycket, eftersom jag & Anders varit nere i två ubåtar förut :-)
+Igår hade Anders semester, så vi passade på att åka på utflykt till Intrepid: Air, sea & space museum. Museumet är på ett hangarfartyg, det finns en massa olika stidsflygplan att titta på. I en annan del fann en space shuttle. Den var det mest imponerande att se. Ytan på shuttlen är kaklad, det var väldigt häftigt att se! Det fanns också en ubåt, men där fick man inte ta med Nova. Det gjorde dock inte så mycket, eftersom jag & Anders varit nere i två ubåtar förut :-)
 
 ![Radarplan](/assets/images/intrepid1.jpg)
  
