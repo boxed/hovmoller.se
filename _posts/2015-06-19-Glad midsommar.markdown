@@ -19,4 +19,6 @@ Vietnamesiskt Colombianskt Italienskt Taiwanesiskt Koreanskt Indiskt Syd-Indiskt
 
 Och Amerikanskt (pulled pork, hamburgare, maine lobster, fried chicken, cheesesteak), så klart! 
 
+![](/assets/images/midsommarbild.jpg)
+
 
